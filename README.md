@@ -8,5 +8,6 @@ problem directory
 ```
 # problem
 
-- 14. [Longest Common Prefix](./LongestCommonPrefix(14)/)
+- 14 [Longest Common Prefix](./LongestCommonPrefix(14)/)
 
+- 948 [Bag of Tokens](./BagofTokens(948)/)
