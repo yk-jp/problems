@@ -11,7 +11,10 @@
 
 2. Check if the beginning of byte conforms to the rule of bytes.
   <img src="./byte_rule.png">
+  
   ```
+   e.g 
+   
    197 -> 11000101
    140 -> 10001100
 
@@ -23,6 +26,7 @@
   ```
  
 2. Check if each byte conforms to the rule of bytes.
+
   ```
   e.g. [197,130,1] sequence: 11000101 10000010 00000001
 
